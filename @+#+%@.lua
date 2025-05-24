@@ -1,3 +1,3 @@
-local Module = {}
+local Module
 
 Module.Test = "Test"
